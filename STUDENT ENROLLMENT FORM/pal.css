@@ -1,0 +1,36 @@
+h1{
+    color:brown;
+    background-color:aqua;
+    text-align:center;
+}
+#add{
+background-color:blue;
+color:white;
+border-radius:3px;
+border-style:none;
+}
+#clear{
+    color:white;
+    background-color:red;
+    border-radius:3px;
+    border-style:none;
+}
+#frm{
+    border-radius:3px;
+    border-color: black;
+}
+#list{
+    position:absolute;
+    top:20%;
+    left:50%;
+    border:5px solid black;
+    background-color:white;
+    height:400px;
+    width:400px;
+}
+body{
+    margin:20px;
+    padding:20px;
+    background-color:pink;
+    
+}
